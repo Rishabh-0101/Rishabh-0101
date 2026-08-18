@@ -124,7 +124,7 @@ Modern animated personal portfolio website showcasing my projects, skills, and r
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishabh-0101&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Rishabh-0101&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
