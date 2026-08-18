@@ -115,8 +115,8 @@ Modern animated personal portfolio website showcasing my projects, skills, and r
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Rishabh-0101&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Rishabh-0101&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Rishabh-0101&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rishabh-0101&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
