@@ -129,7 +129,7 @@ Modern animated personal portfolio website showcasing my projects, skills, and r
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Rishabh-0101&theme=radical&hide_border=true&v=2"
+    src="https://streak-stats.demolab.com/?user=Rishabh-0101&theme=radical&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
