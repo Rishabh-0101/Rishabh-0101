@@ -128,7 +128,10 @@ Modern animated personal portfolio website showcasing my projects, skills, and r
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rishabh-0101&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Rishabh-0101&theme=radical&hide_border=true&v=2"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
@@ -136,9 +139,11 @@ Modern animated personal portfolio website showcasing my projects, skills, and r
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh-0101&theme=redical&hide_border=true" alt="GitHub Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh-0101&theme=redical&hide_border=true&v=2"
+    alt="GitHub Activity Graph"
+  />
 </p>
-
 <!--
 🐍 OPTIONAL: Animated Snake game out of your contribution graph
 Steps:
