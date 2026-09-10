@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero-banner.svg" width="100%" alt="Rishabh Patel — futuristic developer banner"/>
+<img src="assets/hero-banner.png" width="100%" alt="Rishabh Patel — futuristic developer banner"/>
 
 <h1>RISHABH PATEL</h1>
 
@@ -132,7 +132,7 @@ Modern animated personal portfolio website showcasing my projects, skills, and r
 `React` `Node.js` `Firebase`
 
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00A8FF?style=flat-square&logo=vercel&logoColor=white)](https://rishabhportfolio-delta.vercel.app/)
-[![Source](https://img.shields.io/badge/SOURCE-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/Rishabh-0101/portfolio_rishabh26)
+[![Source](https://img.shields.io/badge/SOURCE-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/Rishabh-0101/3D-ANIMATION-PORTFOLIO)
 
 </td>
 <td width="50%" valign="top">
