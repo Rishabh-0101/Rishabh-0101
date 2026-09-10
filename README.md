@@ -165,7 +165,7 @@ An interactive analytics tool to track GitHub repositories, monitor LeetCode rat
 🛡️ **JavaScript Algorithms**
 Infosys
 
-[![View Certificate](https://img.shields.io/badge/VIEW_CERTIFICATE-00A8FF?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/Rishabh-0101/Rishabh-0101/blob/main/f9a1a121-78c0-4f78-aaa4-89bf1575629f%20(1)%20(1).pdf)
+[![View Certificate](https://img.shields.io/badge/VIEW_CERTIFICATE-00A8FF?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/Rishabh-0101/Rishabh-0101/blob/main/certificates/Infosys-JS_Certificate.pdf.pdf)
 
 </td>
 <td align="center" width="50%">
@@ -173,8 +173,7 @@ Infosys
 🛡️ **Data Visualization with Python**
 IBM
 
-[![View Certificate](https://img.shields.io/badge/VIEW_CERTIFICATE-00E5FF?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/Rishabh-0101/Rishabh-0101/blob/main/IBM%20DV0101EN%20Certificate%20_%20Cognitive%20Class.pdf)
-
+[![View Certificate](https://img.shields.io/badge/VIEW_CERTIFICATE-00E5FF?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/Rishabh-0101/Rishabh-0101/blob/main/certificates/IBM DV0101EN Certificate.pdf.pdf)
 </td>
 </tr>
 </table>
