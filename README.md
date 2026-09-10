@@ -173,7 +173,7 @@ Infosys
 🛡️ **Data Visualization with Python**
 IBM
 
-[![View Certificate](https://img.shields.io/badge/VIEW_CERTIFICATE-00E5FF?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/Rishabh-0101/Rishabh-0101/blob/main/certificates/IBM DV0101EN Certificate.pdf.pdf)
+[![View Certificate](https://img.shields.io/badge/VIEW_CERTIFICATE-00E5FF?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/Rishabh-0101/Rishabh-0101/blob/main/certificates/IBM%20DV0101EN%20Certificate.pdf.pdf)
 </td>
 </tr>
 </table>
